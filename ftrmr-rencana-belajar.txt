@@ -1,6 +1,8 @@
 RENCANA BELAJAR FTRMR
 
 - Javascript
+  * ES6
+  * Framework
 - PHP Framework
 - Interview
 - Vlog
