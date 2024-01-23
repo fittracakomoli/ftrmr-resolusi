@@ -4,6 +4,7 @@ RENCANA BELAJAR FTRMR
   * ES6
   * Framework
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
