@@ -3,7 +3,9 @@ RENCANA BELAJAR FTRMR
 - Javascript
   * ES6
   * Framework
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
